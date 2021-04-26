@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GeoPalTest</string>
+    <string name="app_name">GeoPal</string>
     <string name="todo_status">todo_status</string>
     <string name="todo_title">todo_title</string>
     <string name="todo_duedate">todo_dueDate</string>
