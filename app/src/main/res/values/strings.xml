@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GeoPalTest</string>
+    <string name="todo_status">todo_status</string>
+    <string name="todo_title">todo_title</string>
+    <string name="todo_duedate">todo_dueDate</string>
+    <string name="todo_lastEdit">todo_lastEdit</string>
+    <string name="todo_any_attachment">todo_any_attachment</string>
+    <string name="add_item_todo">Add item Todo</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="due_date">Due Date</string>
+    <string name="status">Status</string>
+    <string name="add_images">Add Images</string>
+    <string name="image_for_todo_item">Image for TODO item</string>
+    <string name="select_status">Select Status</string>
+    <string name="dateTimeFormat">EEE, MMM d, \'\'yy hh:mm aaa</string>
+    <string name="submit">Submit</string>
+    <string name="type_in_image_description_over_here">Type in Image description over here!</string>
+    <string name="item_id">Item ID</string>
+    <string name="item_id_heading">Item ID:</string>
+    <string name="add_item">Add Item</string>
+    <string name="list_of_items">List of Items</string>
+    <string name="image_deleted">Image Deleted</string>
+    <string name="capture_new_image">Capture New Image</string>
+    <string name="image_from_gallery">Select Image from Gallery</string>
+    <string name="select_action">Select Action</string>
+    <string name="optional_desciption">This description is Optional</string>
+    <string name="okay">Okay</string>
+    <string name="timestamp">"TimeStamp: "</string>
+    <string name="notes">"Notes: "</string>
+</resources>
